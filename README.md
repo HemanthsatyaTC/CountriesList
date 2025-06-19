@@ -1,4 +1,4 @@
-# Countries App
+[Screen_recording_20250619_160432.webm](https://github.com/user-attachments/assets/15ff3d84-ae9a-4d8e-87a2-e8f0112aef12)# Countries App
 
 ## Overview
 
@@ -62,3 +62,6 @@ The UI displays countries in a RecyclerView with the following information for e
 -   Implement error handling for API calls.
 -   Add UI tests for user interactions.
 -   Implement caching to improve performance.
+
+-   [Screen_recording_20250619_160432.webm](https://github.com/user-attachments/assets/1e71f321-99ed-4dd6-8eb7-ad598b6e9890)
+
